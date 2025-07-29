@@ -5,3 +5,8 @@ url: "https://schi-427.github.io"
 
 theme: minima
 markdown: kramdown
+
+header_pages:
+  -  index.md
+  -  projects.md
+  -  about.md
