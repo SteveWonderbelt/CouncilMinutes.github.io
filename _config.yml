@@ -5,8 +5,3 @@ url: "https://schi-427.github.io"
 
 theme: jekyll-theme-architect
 markdown: kramdown
-
-header_pages:
-  -  index.md
-  -  projects.md
-  -  about.md
