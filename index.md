@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to the Council Minutes Archive
+# Welcome to my Projects Site
 
-This is where we keep public records of council meetings.
+This is where I will blog about and host projects I'm working on.
