@@ -1,10 +1,7 @@
 title: Council Minutes
 description: A public archive of council meeting notes.
-baseurl: "" # leave blank unless your repo is in a subdirectory
+baseurl: "/CouncilMinutes.github.io" # this is important for project pages
 url: "https://schi-427.github.io"
 
 theme: minima
 markdown: kramdown
-
-# Optional: turn off future post hiding
-future: true
