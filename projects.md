@@ -6,5 +6,5 @@ permalink: /projects/
 
 # Projects
 
-- [Searchable Council Minutes](ScarletSage.github.io/demos/council-minutes/index.html)
-- [Other Project](demos/other-project/)
+- [Searchable Council Minutes](/demos/council-minutes/index.html)
+- - [Other Project](demos/other-project/)
