@@ -1,6 +1,6 @@
 title: Steven Childs Projects
 description: Blog and hosting space for personal work
-baseurl: "/CouncilMinutes.github.io" # this is important for project pages
+baseurl: "/ScarletSage.github.io" # this is important for project pages
 url: "https://schi-427.github.io"
 
 theme: minima
