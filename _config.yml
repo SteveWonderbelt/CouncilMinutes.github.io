@@ -5,12 +5,3 @@ url: "https://schi-427.github.io"
 
 theme: jekyll-theme-architect
 markdown: kramdown
-
-Optional: Add navigation links if the theme supports it
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
