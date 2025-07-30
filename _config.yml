@@ -3,10 +3,5 @@ description: Blog and hosting space for personal work
 baseurl: "/ScarletSage.github.io" # this is important for project pages
 url: "https://schi-427.github.io"
 
-theme: minima
+theme: jekyll-theme-architect
 markdown: kramdown
-
-header_pages:
-  -  index.md
-  -  projects.md
-  -  about.md
