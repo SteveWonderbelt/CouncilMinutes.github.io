@@ -6,5 +6,5 @@ permalink: /projects/
 
 # Projects
 
-- [Searchable Council Minutes](/demos/council-minutes/index.html)
+- [Searchable Council Minutes](https://schi-427.github.io/CouncilSearch/)
 - [Other Project](demos/other-project/)
